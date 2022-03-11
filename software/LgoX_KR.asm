@@ -3,13 +3,17 @@
 ;;======================================================================;;
 ;;									;;
 ;; Program:		LegoX			;;
-;; Code:		Jindra Fucík					;;
+;; Code:		Jindra FucÃ­k					;;
 ;; Platform:		Microchip PIC16F15313, 8 Mhz			;;
 ;; Date:		22.08.2021					;;
 ;; First release:	22.08.2021					;;
 ;; LastDate:		22.08.2021					;;
 ;;									;;
 ;;======================================================================;;
+
+; This program is distributed as is but WITHOUT ANY WARRANTY
+; License: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
 ; Working on same principle as DCC
 ; All DCC timings are based on 58us interrupts. When no data is available automatically an Idle
 ; packet is generated. The main program only has to fill the buffer when it is empty, if not
