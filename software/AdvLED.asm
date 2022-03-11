@@ -3,7 +3,7 @@
 ;;======================================================================;;
 ;;									;;
 ;; Program:         mini_light -- DCC lights decoder			;;
-;; Code:            Jindra Fu?ík http://www.fucik.name ; 
+;; Code:            Jindra Fu?Ã­k http://www.fucik.name ; 
 ;; Platform:        Microchip PIC10F32x, 8 Mhz		;;
 ;; Date:            17.01.2014						;;
 ;; First release:   25.01.2014						;;
@@ -12,7 +12,7 @@
 ;;======================================================================;;
 ;
 ; This program is distributed as is but WITHOUT ANY WARRANTY
-; I hope you enjoy!!
+; License: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
 ;
 ; Revisions:
 ; 05.05.2007	Start of writting code (PIC12F629)
